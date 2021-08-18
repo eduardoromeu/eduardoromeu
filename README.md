@@ -1,9 +1,9 @@
 <h1 align="center">Olá, meu nome é Eduardo Romeu!</h1>
 <h3 align="center">Aprendiz de desenvolvedor</h3>
 
-- 🎮 Estou desenvolvendo o seguinte jogo: [Gakkou No Yurei](https://github.com/eduardoromeu/GakkouNoYurei)
+- 🎮 🚓 Estou desenvolvendo alguns jogos aos poucos
 
-- 🚓 E também: [Joyride](https://github.com/eduardoromeu/Joyride)
+- 💻 E estudando desenvolvimento web e mobile
 
 - 📱 Contato: **eduardoromeueberts@gmail.com**
 
