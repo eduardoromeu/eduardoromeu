@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋 </br></br> I'm Eduardo Romeu!</h1>
-<h3 align="center">Junior Dev and part-time worker</h3>
+<h1 align="center">Hi 👋 </br></br>My name is Eduardo Romeu!</h1>
+<h3 align="center">I'm a Junior Dev and part-time worker</h3>
 
-- 🎮 🚓 I'm working with a game project...
+- 🎮 🚓 Working with a game project...
 
 - 💻 And, of course, studying!
 
