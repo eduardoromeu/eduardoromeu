@@ -1,14 +1,17 @@
-<h1 align="center">Hi 👋 </br></br>My name is Eduardo Romeu!</h1>
-<h3 align="center">I'm a Junior Dev and part-time worker</h3>
+# 👋 Hello, my name is Eduardo Romeu
 
-- 🎮 🚓 Working with a game project...
+## I'm a `["Game", "Frontend"]` developer!
 
-- 💻 And, of course, studying!
+- 🎮🚓 Currently working on a game called [Low and Furious](https://store.steampowered.com/app/2408060/Baixos_de_Quebrada/)
+
+- 📖 Always studying something interesting,
 
 - 📱 Contact: **eduardoromeueberts@gmail.com**
 
+---
+
 <h3 align="center">🔰</h3>
-<p align="center">
+<div align="center">
     <a href="https://git-scm.com/" target="_blank">
         <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -84,7 +87,7 @@
             height="40"
         />
     </a>
-</p>
+</div>
 
 
 <p align="center">
