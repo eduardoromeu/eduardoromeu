@@ -11,7 +11,7 @@
 ---
 
 
-<div style="text-align: center;">
+<div align="center">
 
 ### Technologies that I work with
 
